@@ -69,10 +69,7 @@
 |-----------|--------------------------------------|-------|
 |2023/05/29 |JAWS-UG 名古屋 AWS Demo-1グランプリ    |[CDK + ecspressoでお手軽コンテナ3分クッキング](https://speakerdeck.com/yoyoyopg/cdk-plus-ecspressodeoshou-qing-kontena3fen-kutukingu)|
 
-### 執筆歴
-
-- [Qiita](https://qiita.com/yoyoyo_pg)
-
 ### 受賞歴
 
+- [Qiita Advent Calendar 2023 プレゼントカレンダー](https://blog.qiita.com/adventcalendar-2023-presents-winners/) ラクスライトクラウド賞②
 - [JAWS-UG 名古屋 AWS Demo-1グランプリ](https://jawsug-nagoya.doorkeeper.jp/events/155833) 優勝
