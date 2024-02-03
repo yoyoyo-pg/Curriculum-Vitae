@@ -31,6 +31,14 @@
 - 社内の勉強会を定期開催
   - [公開スライド（一部）](https://github.com/yoyoyo-pg/infra-study)
 
+## 経歴
+
+- [SaaS開発（2020/04 - 2021/09）](/detail/Vitae/2020.md)
+- [SaaS開発とSRE（2021/10 - 2022/09）](/detail/Vitae/2021.md)
+- [SaaSのSRE（2022/10 - 現在）](/detail/Vitae/2022-2024.md)
+
+[Vitae.md](/detail/Vitae.md)
+
 ## 今後やっていきたいこと
 
 - クラウドアーキテクトになりたい
