@@ -13,18 +13,24 @@
 
 ## スキル
 
-### 言語
-
-- Java
-- JavaScript
-- TypeScript
-
-### フレームワーク・ライブラリ
-
-- Java EEベースの独自フレームワーク
-- jQuery
-- AWS CDK（Cloud Development Kit）
-  - 社内で導入を先導
+- コンテナ
+  - AWS ECS(Fargate) / Docker / ECR
+- CICD
+  - CodePipeline / CodeBuild
+- IaC
+  - AWS CDK / CloudFormation
+- 監視
+  - Datadog / CloudWatch
+- DB
+  - Aurora MySQL / DynamoDB
+- NW
+  - VPC / Route53 / ALB
+- その他
+  - AWS(EC2, Lambda, S3, API Gateway)
+- 言語
+  - Java / JavaScript / TypeScript
+- フレームワーク・ライブラリ
+  - Java EEベースの独自フレームワーク / jQuery
 
 ### その他
 
