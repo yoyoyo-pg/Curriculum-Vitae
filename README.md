@@ -18,7 +18,7 @@
 - CICD
   - CodePipeline / CodeBuild
 - IaC
-  - AWS CDK / CloudFormation
+  - AWS CDK / CloudFormation / ecspresso
 - 監視
   - Datadog / CloudWatch
 - DB
@@ -27,10 +27,19 @@
   - VPC / Route53 / ALB
 - その他
   - AWS(EC2, Lambda, S3, API Gateway)
+  - blastengine（メール配信）
+  - HTML / CSS
 - 言語
   - Java / JavaScript / TypeScript
+- Java関連
+  - Tomcat / Maven / Gradle
 - フレームワーク・ライブラリ
-  - Java EEベースの独自フレームワーク / jQuery
+  - Java EEベースの独自フレームワーク / Struts / jQuery
+
+### 業務外で触れたことがある、少しだけ分かる
+
+- EKS / GitHub Actions /Terraform
+- WordPress / AppSheet
 
 ### その他
 
