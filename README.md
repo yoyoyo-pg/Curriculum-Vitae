@@ -32,6 +32,14 @@
 - フレームワーク・ライブラリ
   - Java EEベースの独自フレームワーク / jQuery
 
+### 資格
+
+- AWS Certified
+  - Cloud Practitioner
+  - Solutions Architect - Associate
+  - Developer - Associate
+  - SysOps AdminiStrator - Associate
+
 ### その他
 
 - 社内の勉強会を定期開催
@@ -62,21 +70,22 @@
 
 ## やったことはないが興味があるもの
 
-- Reactを用いたモダンフロントエンド開発
+- React等を用いたモダンフロントエンド開発
 - チームリーダーとして組織の活性化、部下の成長を見守ること
-- 個人活動としてでなく、組織の一員として技術コミュニティに参加し貢献していくこと
+- 個人活動としてだけでなく、組織の一員として技術コミュニティに参加し貢献していくこと
 
 ## 課外活動
 
 ### 社外プロジェクト
 
-- 特に無し
+- 2024年度 JAWS-UG名古屋運営
 
 ### 過去の登壇資料
 
 |Date       |Event                                 |Slide  |
 |-----------|--------------------------------------|-------|
-|2023/05/29 |JAWS-UG 名古屋 AWS Demo-1グランプリ    |[CDK + ecspressoでお手軽コンテナ3分クッキング](https://speakerdeck.com/yoyoyopg/cdk-plus-ecspressodeoshou-qing-kontena3fen-kutukingu)|
+|2023/05/29 |JAWS-UG名古屋 AWS Demo-1グランプリ    |[CDK + ecspressoでお手軽コンテナ3分クッキング](https://speakerdeck.com/yoyoyopg/cdk-plus-ecspressodeoshou-qing-kontena3fen-kutukingu)|
+|2024/05/05 |JAWS-UG初心者支部#60 初心者向けLT大会  |[AWSやJAWS-UGとの出会いを振り返る](https://speakerdeck.com/yoyoyopg/awsyajaws-ugtonochu-hui-iwozhen-rifan-ru)|
 
 ### 受賞歴
 
