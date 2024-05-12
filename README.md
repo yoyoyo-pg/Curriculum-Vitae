@@ -18,7 +18,7 @@
 - CICD
   - CodePipeline / CodeBuild
 - IaC
-  - AWS CDK / CloudFormation
+  - AWS CDK / CloudFormation / ecspresso
 - 監視
   - Datadog / CloudWatch
 - DB
@@ -27,10 +27,19 @@
   - VPC / Route53 / ALB
 - その他
   - AWS(EC2, Lambda, S3, API Gateway)
+  - blastengine（メール配信）
+  - HTML / CSS
 - 言語
   - Java / JavaScript / TypeScript
+- Java関連
+  - Tomcat / Maven / Gradle
 - フレームワーク・ライブラリ
-  - Java EEベースの独自フレームワーク / jQuery
+  - Java EEベースの独自フレームワーク / Struts / jQuery
+
+### 業務外で触れたことがある、少しだけ分かる
+
+- EKS / GitHub Actions /Terraform
+- WordPress / AppSheet
 
 ### 資格
 
@@ -53,13 +62,6 @@
 
 [Vitae.md](/detail/Vitae.md)
 
-## 今後やっていきたいこと
-
-- クラウドアーキテクトになりたい
-- チームマネジメントに携わりたい
-
-[Ambition.md](/detail/Ambition.md)
-
 ## 強み・他者から評価されるポイント
 
 - 勤勉さ
@@ -68,11 +70,24 @@
 
 [Strength.md](/detail/Strength.md)
 
+## 今後やっていきたいこと
+
+- クラウドアーキテクトになりたい
+- チームマネジメントに携わりたい
+
+[Ambition.md](/detail/Ambition.md)
+
 ## やったことはないが興味があるもの
 
 - React等を用いたモダンフロントエンド開発
 - チームリーダーとして組織の活性化、部下の成長を見守ること
 - 個人活動としてだけでなく、組織の一員として技術コミュニティに参加し貢献していくこと
+
+## 仕事の軸と関心
+
+ビジョン, プロダクト, 技術, 働き方
+
+[Interest.md](/detail/Interest.md)
 
 ## 課外活動
 
